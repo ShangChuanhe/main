@@ -1,12 +1,14 @@
 # main
 a tiny logic synthesis tool
 
-git clone --recursive https://github.com/ShangChuanhe/main.git
+Using the following command to install and compile
 
-mkdir build
-cd build
-cmake ..
-make
+    git clone --recursive https://github.com/ShangChuanhe/main.git
+    cd main
+    mkdir build
+    cd build
+    cmake ..
+    make
 
 
 Just do it!!
